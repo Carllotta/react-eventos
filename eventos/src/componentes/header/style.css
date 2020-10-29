@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #dddd;
+    padding: 40px 0;
+
+}
+
+nav{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.link{
+    text-decoration: none;
+    color: #000000;
+}

@@ -1,0 +1,12 @@
+.container-footer{
+    height: 15vh;
+    background-color: #6BE20E;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+}
+
+p{
+    margin-bottom: 7px;
+}
